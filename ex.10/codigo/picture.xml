@@ -1,0 +1,8 @@
+<?xml version ="1.0" encoding="Utf-8" ?>
+<pictures>
+    <pictures caption= "Picture 1" source="../downloads/" />
+    <pictures caption= "Picture 2" source="../downloads/" />
+    <pictures caption= "Picture 3" source="../downloads/" />
+    <pictures caption= "Picture 4" source="../downloads/" />
+    <pictures caption= "Picture 5" source="../downloads/" />
+</pictures>
